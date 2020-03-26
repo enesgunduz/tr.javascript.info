@@ -349,7 +349,7 @@ Böyle isimlere örnek:
 Not: ingilizce de bu daha kolay önce eylemi yazıyorlar. Türkçe de fiil genelde sonda olduğundan dolayı sıkıntı yaşanmaktadır. Fonksiyonlarınızı adlandırırken ingilizce adlandırırsanız okunması daha kolay olacaktır.
 
 ```js no-beautify
-sendMessage(..)     // mesaj gösterir
+showMessage(..)     // mesaj gösterir
 getAge(..)          // yaşı dönderir
 calcSum(..)         // toplamı hesaplar ve geri dönderir.
 createForm(..)      // form oluşturur ve genelde geri dönderir.
